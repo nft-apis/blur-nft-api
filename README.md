@@ -11,7 +11,6 @@ Note — We are using [Streaming APIs (v2)](https://docs.bitquery.io/) to get th
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Latest Trades on Blur](#latest-trades-on-blur)
 - [Most traded NFTs on Blur Marketplace](#most-traded-nfts-on-blur-marketplace)
 - [Total buy-sell of an NFT token on BLUR](#total-buy-sell-of-an-nft-token-on-blur)
