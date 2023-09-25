@@ -5,9 +5,7 @@ Additionally, BLUR also allows NFT Loans through its novel Blend protocol. We wi
 
 If you want to learn more about Bitquery NFT data capabilities, you can read our article about [Opensea API](https://bitquery.io/blog/opensea-nft-api) and [NFT API Guide](https://community.bitquery.io/t/nft-api-complete-guide/1509).
 
-Note — We are using [Streaming APIs (v2)](https://docs.bitquery.io/) to get the following data; you can also turn them into WebSocket simply using [Graphql Subscription](https://docs.bitquery.io/docs/start/getting-updates/).
-
-> You can run the following queries [here](https://streaming.bitquery.io/).
+Note — We are using [Streaming APIs (v2)](https://docs.bitquery.io/) to get the following data; you can also turn them into WebSocket simply using [Graphql Subscription](https://docs.bitquery.io/docs/start/getting-updates/). You can run the following queries [here](https://streaming.bitquery.io/).
 
 [![Telegram Badge](https://badgen.net/static/Join/Bloxy_info?icon=telegram)](https://t.me/Bloxy_info) [![Diiscord Bage](https://badgen.net/discord/members/qHMBkJ8gDk)](https://discord.gg/qHMBkJ8gDk)
 
