@@ -9,8 +9,13 @@ Note — We are using [Streaming APIs (v2)](https://docs.bitquery.io/) to get th
 
 > You can run the following queries [here](https://streaming.bitquery.io/).
 
+[![Telegram Badge](https://badgen.net/static/Join/Bloxy_info?icon=telegram)](https://t.me/Bloxy_info) [![Diiscord Bage](https://badgen.net/discord/members/qHMBkJ8gDk)](https://discord.gg/qHMBkJ8gDk)
+
+> This tutorial was originally published on Bitquery Community. Please check out original post: [BLUR NFT Marketplace API](https://bitquery.io/blog/blur-nft-marketplace-api)
+
 ## Table of Contents
 
+- [Getting Started](#getting-started)  
 - [Latest Trades on Blur](#latest-trades-on-blur)
 - [Most traded NFTs on Blur Marketplace](#most-traded-nfts-on-blur-marketplace)
 - [Total buy-sell of an NFT token on BLUR](#total-buy-sell-of-an-nft-token-on-blur)
@@ -33,7 +38,15 @@ Note — We are using [Streaming APIs (v2)](https://docs.bitquery.io/) to get th
 - [Locked NFTs bought by a buyer](#locked-nfts-bought-by-a-buyer)
 - [Get Cancelled Offers](#get-cancelled-offers)
 - [Get Seize Offers](#get-seize-offers)
+- [About Bitquery](#about-bitquery)
 
+## Getting Started
+
+To get started for free, please create an account with your email: [GraphQL IDE ](https://ide.bitquery.io/).Once you create the account, check out our docs to learn [how to create your first query](https://docs.bitquery.io/docs/ide/query/).
+
+To learn more about how to use the Bitquery API, please see the following resources:
+- Historical / Near-Realtime Chain Data: [Blockchain API Documentation (V1 Graphql Docs) | Blockchain Graphql API (V1  API Docs)](https://docs.bitquery.io/v1/) 
+- Realtime Data , Websocket and Cloud Product: [Blockchain Streaming API (V2 Graphql Docs) | Streaming API (V2  API Docs)](https://docs.bitquery.io/) 
 
 ## Latest Trades on Blur
 
@@ -1382,3 +1395,17 @@ When a seizure event occurs, the NFT is typically transferred to the control of 
   }
 }
 ```
+
+## About Bitquery
+
+[**Bitquery**](https://bitquery.io/?source=blog&utm_medium=about_coinpath) is your comprehensive toolkit designed with developers in mind, simplifying blockchain data access. Our products offer practical advantages and flexibility.
+
+-   **APIs** - [Explore API](https://ide.bitquery.io/streaming): Easily retrieve precise real-time and historical data for over 40 blockchains using GraphQL. Seamlessly integrate blockchain data into your applications, making data-driven decisions effortless.
+
+-   **Coinpath®** - [Try Coinpath](https://bitquery.io/products/coinpath?utm_source=blog&utm_medium=about): Streamline compliance and crypto investigations by tracing money movements across 40+ blockchains. Gain insights for efficient decision-making.
+
+-   **Data in Cloud** - [Try Demo Bucket](https://bitquery.io/products/data-in-cloud?utm_source=blog&utm_medium=about): Access indexed blockchain data cost-effectively and at scale for your data pipeline. We currently support Ethereum, BSC, Solana, with more blockchains on the horizon, simplifying your data access.
+
+-   **Explorer** - [Try Explorer](http://explorer.bitquery.io): Discover an intuitive platform for exploring data from 40+ blockchains. Visualize data, generate queries, and integrate effortlessly into your applications.
+
+Bitquery empowers developers with straightforward blockchain data tools. If you have questions or need assistance, connect with us on our [Telegram channel](https://t.me/Bloxy_info) or via email at <hello@bitquery.io>. Stay updated on the latest in cryptocurrency by subscribing to our newsletter below.
